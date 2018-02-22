@@ -2,6 +2,7 @@
 % Author: Tom Bullock, UCSB Attention Lab
 % Date: 02.21.18
 % Testing out Git 
+%ADDED SOMETHING HERE
 %==========================================================================
 
 % some arbitrary code
